@@ -29,3 +29,10 @@ python mastereye.py
 ```sh
 pip install -r requirements.txt
 ```
+## Usage
+1. Enter an IP range (e.g., `192.168.1.1-192.168.1.255`).
+2. Click **Start Scan** to begin scanning.
+3. View live scan results in the table.
+4. Export results to **CSV** or **JSON**.
+5. Toggle **dark mode** in the settings menu.
+
