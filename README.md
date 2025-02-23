@@ -25,3 +25,13 @@ pip install -r requirements.txt
 ```sh
 python mastereye.py
 ```
+# Dependencies
+The application requires the following Python libraries:
+
+1.tkinter (GUI)
+2.socket (Network communication)
+3.ipaddress (IP range handling)
+4.threading (Multi-threading support)
+5.requests (HTTP requests for login attempts)
+6.csv & json (Exporting results)
+7.You can install them all using:
