@@ -35,4 +35,14 @@ pip install -r requirements.txt
 3. View live scan results in the table.
 4. Export results to **CSV** or **JSON**.
 5. Toggle **dark mode** in the settings menu.
+   ## Disclaimer
+🚨 **Educational Use Only!** 🚨  
+This tool is intended for **ethical cybersecurity research and education**.  
+The developer **is not responsible** for any misuse, illegal activities, or damages caused by this software.  
+By using **MasterEye**, you agree to comply with all local laws and ethical guidelines.
+
+## Responsible Disclosure
+We follow responsible disclosure practices. Please give us time to address security issues before making them public.
+
+Thank you for helping make **MasterEye** more secure! 🚀
 
