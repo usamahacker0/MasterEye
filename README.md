@@ -16,3 +16,12 @@
 Ensure you have Python 3 installed. You can check by running:
 ```sh
 python --version
+```
+# Install Dependencies
+```sh
+pip install -r requirements.txt
+```
+# Running the Application
+```sh
+python mastereye.py
+```
