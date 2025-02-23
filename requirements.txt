@@ -1,0 +1,7 @@
+tkinter
+socket
+ipaddress
+threading
+requests
+csv
+json
